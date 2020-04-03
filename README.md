@@ -1,2 +1,2 @@
 # ubuntu
-this is git for ubuntu
+this is repo for ubuntu
